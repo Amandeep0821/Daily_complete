@@ -1,3 +1,12 @@
 # Daily_complete
 # Amandeep Singh
-# Commit One
+# Commit 1st
+Use of function
+
+Correct Gui
+
+Comment Header
+
+Code comments
+
+Correct results
